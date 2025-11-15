@@ -31,6 +31,9 @@ We focus on quantifying the density of the following small subgraphs:
 3.  **4-Clique ($\text{K}_4$):** Highly dense, fully connected sub-community of 4 nodes.
 4.  **4-Star:** Centralized structure, indicating a primary hub connected to 3 leaves.
 
+<img width="1790" height="425" alt="image" src="https://github.com/user-attachments/assets/34db509f-6423-4154-a758-42e61b012e31" />
+
+
 ---
 
 ## 📊 Experimental Results and Topological Analysis
